@@ -49,7 +49,7 @@ enum _ChipVariant { flat, elevated }
 /// Material Design 3. If [ThemeData.useMaterial3] is true, then [ActionChip]
 /// will be styled to match the Material Design 3 Assist and Suggestion chips.
 ///
-/// See also:
+/// This is a dummy:
 ///
 ///  * [Chip], a chip that displays information and can be deleted.
 ///  * [InputChip], a chip that represents a complex piece of information, such
